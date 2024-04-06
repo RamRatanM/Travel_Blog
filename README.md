@@ -22,11 +22,11 @@ Technologies Used:
 3. JavaScript: To implement dynamic features and enhance user interactivity.
 
 How to Use:
-Clone the repository to your local machine.
+1. Clone the repository to your local machine.
 
-Open the index.html file in your preferred web browser.
+2. Open the index.html file in your preferred web browser.
 
-Explore different sections of the blog, read posts, and interact with the features.
+3. Explore different sections of the blog, read posts, and interact with the features.
 
 
 
